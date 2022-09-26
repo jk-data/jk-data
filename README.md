@@ -1,7 +1,6 @@
 - Hi, I’m Jyotirmay Kirtania
 - I’m interested in automation in Anesthesia recordkeeping
-- I’m currently learning data science
-- I’m looking to collaborate on automation in Anesthesia recordkeeping
+- I’m looking forward to collaborate a project on automation in Anesthesia Recordkeeping
 - How to reach me jyoti.kirtania@gmail.com
 
 <!---
